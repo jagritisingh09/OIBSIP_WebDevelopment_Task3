@@ -1,8 +1,8 @@
 # OIBSIP_WebDevelopment_Task3
 This is Task 3 of my Oasis Infobyte Web Development Internship (Level1) 
 
-             Project Title
-  Temperature Converter — Task 3 (Web Development Internship)
+Project Title
+Temperature Converter — Task 3 (Web Development Internship)
 
 Objective
 •The goal of this project is to create an interactive temperature converter that allows users to convert between Celsius, Fahrenheit, and Kelvin. The converter also displays a visual thermometer that changes color based on the temperature.
