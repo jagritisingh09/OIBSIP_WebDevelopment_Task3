@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="temp.css">
+</head>
+<body>
+    <div class="converter">
+           <h1>🌡️ Temperature Converter</h1>
+        <input type="text" id="temperature" placeholder="Enter Temperature">
+        <select id="unit">
+  <option value="C">🌡️ Celsius (°C)</option>
+  <option value="F">🔥 Fahrenheit (°F)</option>
+  <option value="K">❄️ Kelvin (K)</option>
+     </select>
+       <div class="result" id="result"></div>
+    <div class="thermometer">
+        <div class="thermo-fill" id="thermoFill"></div>
+        </div>
+        <p id="live-status">🔄 Live Conversion</p>
+    </div>
+
+    <script src="temp.js"></script>
+</body>
+</html>
